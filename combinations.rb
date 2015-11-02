@@ -8,4 +8,5 @@ def combinations(arr1, arr2)
 	return results
 end
 
-puts combinations(["on","in"],["to","rope"])
+p combinations(["on","in"],["to","rope"])
+
